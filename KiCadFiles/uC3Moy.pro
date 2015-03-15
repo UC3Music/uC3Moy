@@ -1,10 +1,5 @@
-update=16/02/2015 0:51:48
+update=dom 15 mar 2015 20:40:52 CET
 last_client=cvpcb
-[cvpcb]
-version=1
-NetIExt=net
-[cvpcb/libraries]
-EquName1=devcms
 [pcbnew]
 [pcbnew/libraries]
 LibName1=sockets
@@ -23,4 +18,11 @@ LibName13=led
 LibName14=dip_sockets
 LibName15=pga_sockets
 LibName16=valves
+LibName17=capacitors
+LibName18=MODS
 LibDir=
+[cvpcb]
+version=1
+NetIExt=net
+[cvpcb/libraries]
+EquName1=devcms
