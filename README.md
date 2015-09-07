@@ -11,3 +11,7 @@ Designed to work on a single 6LR61 9V battery (alcaline or rechargeable). Draws 
 
 
 It might get loud, use responsibly.
+
+<p align="center">
+<img src="Media/Photo/Photo 1.jpg" width="50%">
+</p>
