@@ -6,7 +6,7 @@ UC3Music-e version of the CMoy pocket headphone amplifier (originally designed b
 Designed to fit in to a Smint can.
 Smint sweets can inner dimensions: 69mm x 36mm x 17mm. Outer dimensions: 77mm x 40mm x 21mm.
 
-Designed to work on a single 6LR61 9V battery (alcaline or rechargeable). Draws about 8mA of current (theoretically, not measured). Lithium technology coming soon.
+Designed to work on a single 6LR61 9V battery (alcaline or rechargeable). Draws about 8mA of current in regular listening levels (13mA at full output). Lithium technology coming soon.
 
 
 
