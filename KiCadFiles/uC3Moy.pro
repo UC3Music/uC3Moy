@@ -1,5 +1,5 @@
-update=dom 15 mar 2015 20:40:52 CET
-last_client=cvpcb
+update=05/11/2015 14:56:47
+last_client=kicad
 [pcbnew]
 [pcbnew/libraries]
 LibName1=sockets
@@ -26,3 +26,5 @@ version=1
 NetIExt=net
 [cvpcb/libraries]
 EquName1=devcms
+[general]
+version=1
