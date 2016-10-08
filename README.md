@@ -17,4 +17,4 @@ It might get loud, use responsibly.
 </p>
 
 
->*Smint is a mint sweet similar to Grigley's Eclipse
+>*Smint is a mint sweet similar to Wrigley's Eclipse
